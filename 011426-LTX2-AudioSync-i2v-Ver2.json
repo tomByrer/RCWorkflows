@@ -62,7 +62,7 @@
         "secondTabWidth": 65
       },
       "widgets_values": [
-        "WAN\\ltx-2-19b-dev-fp8.safetensors"
+        "ltx-2-19b-dev-fp8.safetensors"
       ]
     },
     {
@@ -2246,7 +2246,7 @@
         "secondTabWidth": 65
       },
       "widgets_values": [
-        "WAN\\ltx-2-19b-dev-fp8.safetensors"
+        "ltx-2-19b-dev-fp8.safetensors"
       ]
     },
     {
@@ -2758,7 +2758,7 @@
       },
       "widgets_values": [
         "gemma_3_12B_it_fp8_e4m3fn.safetensors",
-        "WAN\\ltx-2-19b-dev-fp8.safetensors",
+        "ltx-2-19b-dev-fp8.safetensors",
         "default"
       ],
       "color": "#322",
@@ -3844,7 +3844,7 @@
         }
       },
       "widgets_values": [
-        "WAN\\ltx-2-19b-dev-fp8.safetensors",
+        "ltx-2-19b-dev-fp8.safetensors",
         "fixed",
         ""
       ],
